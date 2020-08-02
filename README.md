@@ -14,6 +14,10 @@
 
 - 📫 How to reach me **santo.mat.santhosh@gmail.com**
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=santomat-5111&show_icons=true" alt="santomat-5111" />
+</p>
+
 <p align="center">
 <a href="https://twitter.com/@santosanthosh9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@santosanthosh9" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/santo-santhosh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santo-santhosh" height="20" width="20" /></a>
