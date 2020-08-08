@@ -44,8 +44,19 @@ Hi there, I'm **Santo Santhosh**, a **Developer**👨‍💻 and a **Mechatronic
 </div>
 
 <p align="center">
-<a href="https://twitter.com/@santosanthosh9" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="@santosanthosh9" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/santo-santhosh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="santo-santhosh" height="20" width="20" /></a>
-<a href="https://instagram.com/santo.mat.18" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="santo.mat.18" height="20" width="20" /></a>
-<a href="https://medium.com/@thekkeveedu2001" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@thekkeveedu2001" height="20" width="20" /></a>
+ <a href="https://linkedin.com/in/santo-santhosh" target="blank">
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://instagram.com/santo.mat.18" target="blank">
+  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://twitter.com/@santosanthosh9" target="blank">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://medium.com/@thekkeveedu2001" target="blank">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+ </a> 
+  <br/>
+  <br/>
+  Thanks for stopping by 😁<br/>
 </p>
