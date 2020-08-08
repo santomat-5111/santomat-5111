@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santo Santhosh</h1>
+<h1 align="center">Hi <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">, I'm Santo Santhosh</h1>
 <h3 align="center">I am a Tech Enthusiast, Pythonist and a Machine Learning Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santomat-5111" alt="santomat-5111" /> </p>
 
@@ -39,11 +39,13 @@ Hi there, I'm **Santo Santhosh**, a **Developer**👨‍💻 and a **Mechatronic
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
 
 <p align="center">
-<a href="https://twitter.com/@santosanthosh9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@santosanthosh9" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/santo-santhosh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santo-santhosh" height="20" width="20" /></a>
-<a href="https://fb.com/santo.santhosh.790" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="santo.santhosh.790" height="20" width="20" /></a>
-<a href="https://instagram.com/santo.mat.18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="santo.mat.18" height="20" width="20" /></a>
-<a href="https://medium.com/@thekkeveedu2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@thekkeveedu2001" height="20" width="20" /></a>
+<a href="https://twitter.com/@santosanthosh9" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="@santosanthosh9" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/santo-santhosh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="santo-santhosh" height="20" width="20" /></a>
+<a href="https://instagram.com/santo.mat.18" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="santo.mat.18" height="20" width="20" /></a>
+<a href="https://medium.com/@thekkeveedu2001" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@thekkeveedu2001" height="20" width="20" /></a>
 </p>
