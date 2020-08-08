@@ -21,7 +21,7 @@ Hi there, I'm **Santo Santhosh**, a **Developer**👨‍💻 and a **Mechatronic
 - 📫 How to reach me **santo.mat.santhosh@gmail.com**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=santomat-5111&show_icons=true" alt="santomat-5111" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santomat-5111&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="santomat-5111" />
 </p>
 
 **Languages and Tools:**  
