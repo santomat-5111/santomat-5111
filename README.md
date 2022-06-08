@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" width="29px">, I'm Santo Santhosh</h1>
+<h1 align="center">Hi <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" height="33px" width="29px">, I'm Santo Santhosh</h1>
 <h3 align="center">I am a Tech Enthusiast, Pythonist and a Machine Learning Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santomat-5111" alt="santomat-5111" /> </p>
 
